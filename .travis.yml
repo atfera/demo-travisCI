@@ -9,4 +9,4 @@ deploy:
     secure: $HEROKU_TOKEN
   app: demo-travisci
   on:
-    branch: master
+    repo: atfera/demo-travisCI
