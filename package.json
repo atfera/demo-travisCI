@@ -1,0 +1,22 @@
+{
+  "name": "demo-travisci",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atfera/demo-travisCI.git"
+  },
+  "author": "atferhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atfera/demo-travisCI/issues"
+  },
+  "homepage": "https://github.com/atfera/demo-travisCI#readme"
+}
